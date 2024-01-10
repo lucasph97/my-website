@@ -1,4 +1,4 @@
-title: Eddie Webb
+title: Lucas Peitton
 baseURL: https://lucas-peitton-data.netlify.app/
 theme: hugo-resume
 languageCode: en-us
@@ -7,27 +7,21 @@ PygmentsCodeFencesGuessSyntax: yes
 PygmentsStyle: monokai
 enableGitInfo: no
 params:
-  address: Rollinsford, NH
-  email: email@domain.com
+  address: Rosario, Argentina
+  email: lucasph97@gmail.com
   favicon: /favicon.ico
-  firstName: Eddie
-  google:
-    analytics:
-      trackerID: XX-123446-01
+  firstName: Lucas
+  # google:
+  #   analytics:
+  #     trackerID: XX-123446-01
   handles:
-    - link: https://www.linkedin.com/in/edwardwebb/
+    - link: https://www.linkedin.com/in/lucas-peitton/
       name: LinkedIn
-    - link: https://github.com/eddiewebb/
+    - link: https://github.com/lucasph97/
       name: GitHub
-    - link: https://bitbucket.org/eddiewebb/
-      name: Bitbucket
-    - link: https://stackoverflow.com/users/story/82880
-      name: Stack Overflow
-    - link: https://keybase.io/edwardawebb
-      name: Keybase
-  lastName: Webb
-  phone: 1-555-555-1234
-  profileImage: img/TechChat.png
+  lastName: Peitton
+  # phone: 1-555-555-1234
+  profileImage: img/foto_120623.jpg
   sections:
     - skills
     - publications
@@ -37,7 +31,7 @@ params:
     - education
     - blog
   showContact: yes
-  showQr: yes
+  showQr: no
 outputs:
   home:
     - HTML
