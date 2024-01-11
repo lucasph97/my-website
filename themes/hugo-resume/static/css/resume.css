@@ -6,7 +6,7 @@ html {
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #868e96;
+  color: rgb(52,52,52);
 }
 
 @media (min-width: 992px) {
@@ -24,7 +24,7 @@ h5,
 h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
-  color: #343a40;
+  color: rgb(140,140,140)
 }
 
 
@@ -49,11 +49,11 @@ h2 {
 }
 
 .list-social-icons a {
-  color: #495057;
+  color: #FCFFE9;
 }
 
 .list-social-icons a:hover {
-  color: #333333;
+  color: rgb(52,52,52);
 }
 
 .list-social-icons a .fa-lg {
@@ -65,7 +65,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #333333;
+  color: rgb(52,52,52);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -92,7 +92,7 @@ h2 {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.2rem solid rgb(140,140,140);
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -114,7 +114,7 @@ h2 {
 }
 
 section.resume-section {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #FFF2CC;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
 }
@@ -140,17 +140,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #333333 !important;
+  background-color: rgb(52,52,52) !important;
 }
 
 .text-primary {
-  color: #333333 !important;
+  color: rgb(52,52,52) !important;
 }
 
 a {
-  color: #333333;
+  color: rgb(52,52,52);
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: rgb(140,140,140);
 }
