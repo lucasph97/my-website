@@ -76,6 +76,8 @@ h2 {
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
+    color: #FCFFE9;
+
     position: fixed;
     top: 0;
     left: 0;
@@ -152,5 +154,5 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: rgb(1,140,140);
+  color: rgb(140,140,140);
 }
