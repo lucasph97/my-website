@@ -8,5 +8,5 @@ sitemap:
   priority: 1
 title: Home
 ---
-Online resumé and job portfolio
-Work in progress... Ignore everything below
+Online resumé and job portfolio\n 
+Work in progress... Please disregard everything beyond this point

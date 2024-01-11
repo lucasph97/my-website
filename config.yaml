@@ -21,7 +21,7 @@ params:
       name: GitHub
   lastName: Peitton
   # phone: 1-555-555-1234
-  profileImage: img/foto_120623.jpg
+  profileImage: img/foto_120623_thmb.jpg
   sections:
     - skills
     - publications
