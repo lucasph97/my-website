@@ -75,8 +75,7 @@ h2 {
 
 @media (min-width: 992px) {
   #sideNav {
-    text-align: center;
-    color: #FCFFE9;
+    text-align: center; color: #FCFFE9;
 
     position: fixed;
     top: 0;
