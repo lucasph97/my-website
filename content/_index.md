@@ -8,5 +8,6 @@ sitemap:
   priority: 1
 title: Home
 ---
-Online resumé and job portfolio\n 
+Online resumé and job portfolio 
+\linebreak 
 Work in progress... Please disregard everything beyond this point
